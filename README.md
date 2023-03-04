@@ -17,12 +17,7 @@
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rhythm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rhythmshandlya&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   </p>
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/rhythmshandlya"><img width="60%" alt="Rhythm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rhythmshandlya&custom_title=Rhythm%20Shandlya%27s%20Contribution%20Graph&theme=react-dark"/></a>
-  <br/>
-
+  
 <br/>
 
 ## 🙋‍♀️ Let's Connect
