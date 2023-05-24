@@ -1,7 +1,7 @@
 
 <h1>Hi , I'm Rhythm Shandlya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
-I'm a dedicated and enthusiastic Full-Stack Developer with a knack for crafting robust microservice backends using the power of Node.js and Express. With a strong focus on scalability and performance, I specialize in developing cutting-edge solutions that drive innovation and deliver exceptional user experiences.
+I'm a dedicated and enthusiastic Full-Stack Developer with a knack for crafting robust microservice backends using the power of Node.js and Express. With a strong focus on scalability and performance.
 </p>
 
 ## Streak Stats
